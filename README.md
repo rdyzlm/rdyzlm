@@ -44,9 +44,13 @@ Amacım, hızlı öğrenme yeteneğimi ve çözüm odaklı yaklaşımımı kulla
 
 ### 📊 GitHub İstatistikleri📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdyzlm&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdyzlm&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rdyzlm&show_icons=true&theme=dark" height="165"/>
+  
 </p>
 
----
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdyzlm&theme=dark" alt="rdyzlm'nin En Çok Kullanılan Dilleri" />
+    </a>
+</p>
 
