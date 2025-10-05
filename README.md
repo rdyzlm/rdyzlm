@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="Renkli Neon Modern Yayın Başlıyor Yeni Video (5).gif" alt="Cyberpunk Neon Şehir GIF" width="850"/>
+  <img src="hoşgeldiniz" alt="404" width="850"/>
 </p>
 
 <h2 align="center"> Ben Melih Hoşgeldin 👋</h2>
