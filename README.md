@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="hoşgeldiniz" alt="hoşgeldiniz" width="850"/>
+  <img src="hoşgeldiniz.gif" alt="404 Hatası" width="850"/>
 </p>
 
 <h2 align="center"> Ben Melih Hoşgeldin 👋</h2>
